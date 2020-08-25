@@ -63,27 +63,12 @@
   </url>
   
   <url>
-    <loc>/post/2020/test2/</loc>
-    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/basic/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020/difference-between-two/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
+    <loc>/tags/simulation/</loc>
+    <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/statistics/</loc>
-    <lastmod>2020-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/simulation/</loc>
     <lastmod>2020-04-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -148,32 +133,17 @@
   </url>
   
   <url>
-    <loc>/post/2017/about-hugo-xmag/</loc>
-    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/markdown/</loc>
-    <lastmod>2017-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2017/another-note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/tutorial/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/2017/a-quick-note/</loc>
     <lastmod>2017-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/2016/a-plain-markdown-post/</loc>
+    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/markdown/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -185,16 +155,6 @@
   <url>
     <loc>/tags/pandoc/</loc>
     <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015/jeff-leek-is-the-uniformly-most-powerful-jeff/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015/introduction-hugo-xmin/</loc>
-    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

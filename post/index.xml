@@ -30,24 +30,6 @@
     </item>
     
     <item>
-      <title>test2</title>
-      <link>/post/2020/test2/</link>
-      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/test2/</guid>
-      <description>헤더 1 헤더 테스트</description>
-    </item>
-    
-    <item>
-      <title>difference-between-two</title>
-      <link>/post/2020/difference-between-two/</link>
-      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020/difference-between-two/</guid>
-      <description>두 표본의 통계량 차이를 반복실험을 통해서 알아보자. 일반적으로 잘알려진 사실은 두 표본의 평균의 차는 변하지 않는다. 다만, 편차, 신뢰구간, 또는 표준오차는 몇</description>
-    </item>
-    
-    <item>
       <title>두께측정으로 알아보는 통계량</title>
       <link>/post/2020/thickness-measurement-statistic/</link>
       <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
@@ -93,27 +75,6 @@
     </item>
     
     <item>
-      <title>About hugo xmag</title>
-      <link>/post/2017/about-hugo-xmag/</link>
-      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017/about-hugo-xmag/</guid>
-      <description>XMag is the second Hugo theme I have designed. It is based on my first Hugo theme XMin, and similarly, features minimalism but with a magazine style on the homepage inspired by The Signpost on Wikipedia. You can find its source code on Github: https://github.com/yihui/hugo-xmag (licensed under MIT).
-Features This theme includes a few cool features:
-  Responsive article summary blocks on homepage
-  Thumbnails in summary blocks</description>
-    </item>
-    
-    <item>
-      <title>Another note on a blogdown tutorial</title>
-      <link>/post/2017/another-note/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017/another-note/</guid>
-      <description>I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
-    </item>
-    
-    <item>
       <title>A quick note on two beautiful websites</title>
       <link>/post/2017/a-quick-note/</link>
       <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
@@ -130,25 +91,6 @@ Features This theme includes a few cool features:
       
       <guid>/post/2016/a-plain-markdown-post/</guid>
       <description>hugo-xmin 테마의 저자인 Yihui Xie의 이 문서를 번역하였습니다. 이 글은 주로 blogdown 사용자를 위하여 작성되었습니다. 만일 blogdown을 사용하지 않는다면 첫 번째 섹션은</description>
-    </item>
-    
-    <item>
-      <title>Jeff Leek is the uniformly most powerful Jeff</title>
-      <link>/post/2015/jeff-leek-is-the-uniformly-most-powerful-jeff/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015/jeff-leek-is-the-uniformly-most-powerful-jeff/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
-    </item>
-    
-    <item>
-      <title>Introduction of hugo-xmin theme</title>
-      <link>/post/2015/introduction-hugo-xmin/</link>
-      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2015/introduction-hugo-xmin/</guid>
-      <description>HUGO XMIN Keep it simple, but not simpler XMin is a Hugo theme written by Yihui Xie in about four hours: half an hour was spent on the Hugo templates, and 3.5 hours were spent on styling. The main motivation for writing this theme was to provide a really minimal example to beginners of Hugo templates. This XMin theme contains about 130 lines of code in total, including the code in HTML templates and CSS (also counting empty lines).</description>
     </item>
     
   </channel>
