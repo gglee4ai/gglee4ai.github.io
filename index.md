@@ -1,31 +1,31 @@
 # Gyeong Geun Lee
 
-Materials data, reliability analysis, R programming, and engineering software.
+재료 데이터, 신뢰성 평가, R 기반 분석, 엔지니어링 소프트웨어에 관심을 두고 일합니다.
 
-## Profile
+## 소개
 
-I work on engineering data analysis, materials reliability, and practical software tools for technical workflows. My work combines domain knowledge in materials and structural integrity with reproducible analysis in R and related tools.
+재료와 구조 건전성 분야의 도메인 지식을 바탕으로, 공학 데이터 분석과 반복 가능한 기술 문서화를 수행합니다. R을 중심으로 데이터 처리, 시각화, 보고서 작성, 소규모 업무 도구 개발을 해왔습니다.
 
-## Areas of Interest
+## 관심 분야
 
-- Materials degradation and reliability analysis
-- Reactor pressure vessel and internals data analysis
-- R-based data processing, reporting, and visualization
-- Engineering databases and technical documentation
-- Small tools for recurring analysis workflows
+- 재료 열화 및 신뢰성 평가
+- 원자로 압력용기 및 내부구조물 관련 데이터 분석
+- R 기반 데이터 처리, 보고서 작성, 시각화
+- 공학 데이터베이스와 기술 문서 관리
+- 반복 업무를 줄이기 위한 소규모 분석 도구 개발
 
-## Selected Work
+## 주요 작업
 
-- Reactor pressure vessel and internals data analysis projects
-- Materials database and portal development
-- R notebooks and reproducible technical notes
-- Shiny and lightweight web applications for engineering use
+- 원자로 압력용기 및 내부구조물 관련 데이터 분석
+- 재료 데이터베이스 및 정보 포털 개발
+- R Notebook 기반의 재현 가능한 기술 노트 작성
+- Shiny 및 경량 웹 애플리케이션을 활용한 업무 도구 개발
 
-## Public Notes
+## 공개 노트
 
-- [Various topic notes](https://github.com/gglee4ai/note-various-topic)
-- [Various book notes](https://github.com/gglee4ai/note-various-R-books)
+- [주제별 노트](https://github.com/gglee4ai/note-various-topic)
+- [책/자료 정리 노트](https://github.com/gglee4ai/note-various-R-books)
 
-## Contact
+## 연락처
 
 - GitHub: [gglee4ai](https://github.com/gglee4ai)
