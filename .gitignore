@@ -1,3 +1,8 @@
 .DS_Store
-*.bib
+
+# Private local reference files only. Do not publish PDFs or Zotero snapshots.
+private-ignored-files/
+
+# Legacy local reference folders, kept ignored if they reappear.
+ignored-files/
 files/

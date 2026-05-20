@@ -32,6 +32,8 @@
 - Lee et al. (2021). Multilevel modeling of diametral creep in pressure tubes of Korean CANDU units. *Nuclear Engineering and Technology*. [DOI](https://doi.org/10.1016/j.net.2021.06.019)
 - Lee et al. (2019). Modeling of Flow-Accelerated Corrosion using Machine Learning: Comparison between Random Forest and Non-linear Regression. *Corrosion Science and Technology*. [DOI](https://doi.org/10.14773/CST.2019.18.2.61)
 
+BibTeX: [publications.bib](public-files/publications.bib)
+
 ## 연락처
 
 - GitHub: [gglee4ai](https://github.com/gglee4ai)
